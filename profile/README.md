@@ -32,5 +32,5 @@
 <i>*: सदस्यहरू सिर्फ निमन्त्रणमा यस Github संगठनमा सामेल हुनुभएका सदस्यहरू देखाइएको मात्र हो र आधिकारिक वा कार्यकारी सदस्यहरूको नाममा नहुन सक्ने छ। </i>
 
 <h2 align="center">Integrated With</h2>
-<a href=https://github.com/TechnologyMediaorg"><img src="https://avatars.githubusercontent.com/u/128064750?s=200&v=4" height="100px"></a>
+<a href="https://github.com/TechnologyMediaorg"><img src="https://avatars.githubusercontent.com/u/128064750?s=200&v=4" height="100px"></a>
 </div>
