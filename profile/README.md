@@ -26,3 +26,12 @@
   <p>Krimson Squad and its contributors shall not be held liable for any damages or legal implications arising from the use or misuse of the information and resources provided. You assume full responsibility for your actions and their consequences.</p>
   <p>By using our resources and participating in our community, you agree to these terms and conditions.</p>
 </div>
+<div align="center">
+  <h2> Members* </h2>
+  <img src="https://github.com/Krimson-Squad/.github/assets/111997815/6fcb8a89-4c56-4809-9155-ccc9c6b60d8e">
+<img src="https://github.com/Krimson-Squad/.github/assets/111997815/e9640442-ce5d-41e5-b32f-acd8137f9eba">
+
+</div>
+<i>*: Members section is only showing the members who joined this Github Org on invitation and cannot be called as official or executive members. </i>
+
+
