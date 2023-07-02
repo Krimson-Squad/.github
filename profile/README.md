@@ -1,16 +1,16 @@
 <h1 align="center">KRIMSON SQUAD</h1>
 <p align="center"><img src="https://avatars.githubusercontent.com/u/134789824?s=200&amp;v=4" alt="logo" height="100px"></p>
 <div align="center">
-
+<!--
 <div align="center">
   <h3 align="center">Disclaimer</h3>
   <p>The information and resources provided by Krimson Squad are for educational purposes only. We aim to strengthen programming skills for cybersecurity professionals and enthusiasts, with a focus on legal and ethical topics, including red teaming techniques.<strong>We do not sell tools, malware, or exploits.</strong> Our primary goal is to develop programming power and enhance knowledge in the field of cybersecurity.By engaging with Krimson Squad's content and resources, you acknowledge that you will use the knowledge gained responsibly and in compliance with applicable laws and regulations. We do not endorse or support any illegal activities, including unauthorized access to systems or networks.While we strive to provide accurate and up-to-date information, cybersecurity is a constantly evolving field, and the content provided may become outdated over time. Therefore, it is important to exercise critical thinking, independent research, and professional judgment when applying the knowledge and techniques discussed within our materials.</p>
   <p>Krimson Squad and its contributors shall not be held liable for any damages or legal implications arising from the use or misuse of the information and resources provided. You assume full responsibility for your actions and their consequences.</p>
   <p>By using our resources and participating in our community, you agree to these terms and conditions.</p>
 </div>
-
+-->
 <div align="center">
-  <h3>सतर्कता:</h3>
+  <h3>सतर्कता: (Disclaimer in Nepali)</h3>
   <p>Krimson Squad द्वारा प्रदान गरिएको जानकारी र संसाधनहरू शैक्षिक उद्देश्यका लागि मात्र हुन्। हामी साइबर सुरक्षा विशेषज्ञहरू र उत्साहीहरूका प्रोग्रामिङ्ग क्षमता बढाउन लक्ष्य राख्छौं। हाम्रो मुख्य ध्यान विधि र नैतिक विषयहरू, समेटी तालिमहरूको विकासमा रहेको छ।</p>
   <p><strong>हामी उपकरण, मेलवेयर वा शोषण बिक्री गर्दैनौं।</strong> हाम्रो प्राथमिक लक्ष्य साइबर सुरक्षा विषयक प्रोग्रामिङ्ग क्षमता विकास र ज्ञान बढाउनु हो।</p>
   <p>Krimson Squad को सामग्री र संसाधनहरूसँग संबद्ध हुँदा, तपाईंले
