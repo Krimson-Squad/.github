@@ -1,11 +1,10 @@
 <h1 align="center">KRIMSON SQUAD</h1>
 <p align="center"><img src="https://avatars.githubusercontent.com/u/134789824?s=200&amp;v=4" alt="logo"></p>
 <div align="center">
-  <h2>Disclaimer</h2>
-  <p>The information and resources provided by Krimson Squad are for educational purposes only. We aim to strengthen programming skills for cybersecurity professionals and enthusiasts, with a focus on legal and ethical topics, including red teaming techniques.</p>
-  <p><strong>We do not sell tools, malware, or exploits.</strong> Our primary goal is to develop programming power and enhance knowledge in the field of cybersecurity.</p>
-  <p>By engaging with Krimson Squad's content and resources, you acknowledge that you will use the knowledge gained responsibly and in compliance with applicable laws and regulations. We do not endorse or support any illegal activities, including unauthorized access to systems or networks.</p>
-  <p>While we strive to provide accurate and up-to-date information, cybersecurity is a constantly evolving field, and the content provided may become outdated over time. Therefore, it is important to exercise critical thinking, independent research, and professional judgment when applying the knowledge and techniques discussed within our materials.</p>
+
+<div align="center">
+  <h3 align="center">Disclaimer</h3>
+  <p>The information and resources provided by Krimson Squad are for educational purposes only. We aim to strengthen programming skills for cybersecurity professionals and enthusiasts, with a focus on legal and ethical topics, including red teaming techniques.<strong>We do not sell tools, malware, or exploits.</strong> Our primary goal is to develop programming power and enhance knowledge in the field of cybersecurity.By engaging with Krimson Squad's content and resources, you acknowledge that you will use the knowledge gained responsibly and in compliance with applicable laws and regulations. We do not endorse or support any illegal activities, including unauthorized access to systems or networks.While we strive to provide accurate and up-to-date information, cybersecurity is a constantly evolving field, and the content provided may become outdated over time. Therefore, it is important to exercise critical thinking, independent research, and professional judgment when applying the knowledge and techniques discussed within our materials.</p>
   <p>Krimson Squad and its contributors shall not be held liable for any damages or legal implications arising from the use or misuse of the information and resources provided. You assume full responsibility for your actions and their consequences.</p>
   <p>By using our resources and participating in our community, you agree to these terms and conditions.</p>
 </div>
@@ -24,9 +23,14 @@
 ग गर्दै र हाम्रो समुदायमा सहभागी हुँदै, तपाईं यी नियम र शर्तहरूमा सहमत हुनुहुन्छ।</p>
 </div>
 
+
 <div align="center">
   <h2>सदस्यहरू*</h2>
   <img src="https://github.com/Krimson-Squad/.github/assets/111997815/6fcb8a89-4c56-4809-9155-ccc9c6b60d8e">
 <img src="https://github.com/Krimson-Squad/.github/assets/111997815/e9640442-ce5d-41e5-b32f-acd8137f9eba">
 </div>
 <i>*: सदस्यहरू सिर्फ निमन्त्रणमा यस Github संगठनमा सामेल हुनुभएका सदस्यहरू देखाइएको मात्र हो र आधिकारिक वा कार्यकारी सदस्यहरूको नाममा नहुन सक्ने छ। </i>
+
+<h2 align="center">Integrated With</h2>
+<a href=https://github.com/TechnologyMediaorg"><img src="https://avatars.githubusercontent.com/u/128064750?s=200&v=4" height="100px"></a>
+</div>
