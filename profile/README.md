@@ -14,3 +14,15 @@
   <li><p><strong>Contribute Code:</strong> Help us improve and expand our tools by submitting pull requests. Your contributions, whether big or small, are invaluable in shaping the future of Krimson Squad. 🖥️✨</p></li>
   <li><p><strong>Spread the Word:</strong> Share your experiences, achievements, and projects with Krimson Squad on social media. Let others know about the incredible work happening within our organization. 🌐📢</p></li>
 </ol>
+
+<div align="center">
+  <h2>Disclaimer</h2>
+  <p>The information and resources provided by Krimson Squad are intended for educational purposes only. We aim to strengthen programming skills for cyber security professionals and enthusiasts. Our focus is on legal and ethical topics, including red teaming techniques.</p>
+  <p><strong>We do not sell tools, malware, or exploits.</strong> Our primary goal is to develop programming power and enhance knowledge in the field of cybersecurity.</p>
+  <p>By engaging with Krimson Squad's content and resources, you acknowledge that you will use the knowledge gained responsibly and in compliance with applicable laws and regulations. We do not endorse or support any illegal activities, including unauthorized access to systems or networks.</p>
+  <p>While we strive to provide accurate and up-to-date information, cybersecurity is a constantly evolving field, and the content provided may become
+
+ outdated over time. Therefore, it is important to exercise critical thinking, independent research, and professional judgment when applying the knowledge and techniques discussed within our materials.</p>
+  <p>Krimson Squad and its contributors shall not be held liable for any damages or legal implications arising from the use or misuse of the information and resources provided. You assume full responsibility for your actions and their consequences.</p>
+  <p>By using our resources and participating in our community, you agree to these terms and conditions.</p>
+</div>
