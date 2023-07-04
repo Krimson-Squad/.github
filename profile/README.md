@@ -14,8 +14,8 @@
 
 <div align="center">
     <h2>सदस्यहरू* | Members*</h2>
-    <img src="https://github.com/Krimson-Squad/.github/assets/111997815/6fcb8a89-4c56-4809-9155-ccc9c6b60d8e" height="190px">
-<img src="https://github.com/Krimson-Squad/.github/assets/111997815/e9640442-ce5d-41e5-b32f-acd8137f9eba" height="190px">
+    <img src="https://github.com/Krimson-Squad/.github/assets/111997815/67ba2250-0dd0-4d70-b96b-b9a5fa382ec9" height="190px">
+<img src="https://github.com/Krimson-Squad/.github/assets/111997815/52ae5343-f986-40ba-9e00-8d5b91749464" height="190px">
 </div>
 <i>*: सदस्यहरूले निमन्त्रणाद्वारा मात्र यस Github संगठनमा सामेल भएका सदस्यहरूलाई मात्र देखाउँछन् र आधिकारिक वा कार्यकारी सदस्यहरू नामकरण गर्न सकिँदैन। </i>
 
